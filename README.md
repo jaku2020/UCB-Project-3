@@ -14,8 +14,14 @@ THE FILES
 
 This project consists of 3 notebooks:
 * Main_notebook_unbalanced_data
-* Support_notebook_ 1_balanced_oversampled
-* Support_notebook_ 2_balanced_undersampled
+  
+  (https://github.com/jaku2020/UCB-Project-3/blob/main/Jupyter%20Notebooks/Main_notebook_unbalanced_data.ipynb)
+* Support_notebook_ 1_balanced_oversampled 
+  
+  (https://github.com/jaku2020/UCB-Project-3/blob/main/Jupyter%20Notebooks/Support_notebook_%201_balanced_oversampled.ipynb)
+* Support_notebook_ 2_balanced_undersampled 
+  
+  (https://github.com/jaku2020/UCB-Project-3/blob/main/Jupyter%20Notebooks/Support_notebook_%202_balanced_undersampled.ipynb)
 
 The Main notebook explores the models with unbalanced data while the other two are based on balanced data by using oversampling/undersampling techniques.
 
